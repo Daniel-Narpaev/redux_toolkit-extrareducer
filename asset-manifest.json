@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/redux_toolkit-extrareducer/static/css/main.00cda747.css",
+    "main.js": "/redux_toolkit-extrareducer/static/js/main.6ef1e598.js",
+    "static/media/summary.jpg": "/redux_toolkit-extrareducer/static/media/summary.c40a9167dc81752e7fb1.jpg",
+    "static/media/basket-svg.svg": "/redux_toolkit-extrareducer/static/media/basket-svg.569f7d6b6e9520fb1d1b3c77ebb21b5e.svg",
+    "index.html": "/redux_toolkit-extrareducer/index.html",
+    "static/media/plus-icons.svg": "/redux_toolkit-extrareducer/static/media/plus-icons.b8a001afefc325562f9c1143fc9f21cd.svg",
+    "main.00cda747.css.map": "/redux_toolkit-extrareducer/static/css/main.00cda747.css.map",
+    "main.6ef1e598.js.map": "/redux_toolkit-extrareducer/static/js/main.6ef1e598.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00cda747.css",
+    "static/js/main.6ef1e598.js"
+  ]
+}
